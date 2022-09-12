@@ -1,0 +1,13 @@
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.exe
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.deps.json
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.runtimeconfig.json
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.dll
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\bin\Debug\netcoreapp3.1\CalculadoraMatrices.pdb
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.AssemblyInfo.cs
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.dll
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.pdb
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.genruntimeconfig.cache
+C:\Users\Samuel\Documents\Visual Studio 2019\Projects\CalculadoraMatrices\CalculadoraMatrices\obj\Debug\netcoreapp3.1\CalculadoraMatrices.csprojAssemblyReference.cache
